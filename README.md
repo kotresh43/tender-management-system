@@ -1,8 +1,6 @@
-<a href="http://ec2-13-233-71-174.ap-south-1.compute.amazonaws.com:8080/tendermanagement/" alt="Tender Management System Java Project" target="_blank">**Tender Management System**</a><br><br>
-- **Youtube VIDEO** for local setup of this project: https://www.youtube.com/watch?v=7CE3aY4e644
-- **Youtube VIDEO** for Local Setup of similar project : https://youtu.be/mLFPodZO8Iw
+
 ### Login Credentials:
-	User Login: shashi@gmail.com/shashi
+	User Login: kotresh@gmail.com/kotresh
 	Admin Login: Admin/Admin
 Whenever a company  requires a service / merchandise , a tender is floated. Company maintains an empaneled list of Vendors. An empaneled vendor can only bid for a tender. Every vendor can bid only once against   each tender. Against each tender there may be   bids from several vendors. The company will then select the most suitable bid and places the order to that vendor.
 <!--
@@ -135,4 +133,4 @@ Step 8: Default Username And Password For User Is "shashi@gmail.com" and "shashi
 
 <bold>Thanks a lot</bold><br/>
                                                                                                         Project Leader<br/>
-                                                                                                         <b>Shashi Raj</b>
+                                                                                                         <b>G M Kotresh</b>
